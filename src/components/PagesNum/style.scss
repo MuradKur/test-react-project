@@ -1,0 +1,21 @@
+.pages-number-text {
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 20px;
+  text-align: center;
+  color: #505050;
+
+  span:nth-child(1) {
+    color: #505050;
+  }
+}
+
+.pages-number {
+  width: 100% !important;
+  position: absolute;
+  bottom: 150px;
+  
+  p {
+    text-align: left;
+  }
+}
